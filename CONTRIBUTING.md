@@ -57,7 +57,7 @@ Unsure where to start? Look for open issues with labels:
 1. **Fork the repository** on GitHub.
 2. **Clone your fork locally**:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/kagaz.git
+   git clone https://github.com/sinaryorg/kagaz.git
    cd kagaz
    ```
 3. **Install dependencies**:

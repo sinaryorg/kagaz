@@ -49,7 +49,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/kagaz.git
+   git clone https://github.com/sinaryorg/kagaz.git
    cd kagaz
    ```
 
@@ -87,7 +87,7 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) guide for detailed steps on how
 3. Follow code style & pull request guidelines.
 
 ### 🌟 Good First Issues
-If you're looking to start contributing, check out issues marked [`good first issue`](https://github.com/YOUR-USERNAME/kagaz/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+If you're looking to start contributing, check out issues marked [`good first issue`](https://github.com/sinaryorg/kagaz/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
 ---
 
