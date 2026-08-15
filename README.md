@@ -91,6 +91,14 @@ If you're looking to start contributing, check out issues marked [`good first is
 
 ---
 
+## 👨‍💻 About the Developer
+
+Crafted with passion by **Sinary** ([@sinaryorg](https://github.com/sinaryorg)).
+
+Learn more about the developer, the vision behind Kagaz, and how to connect in [`AUTHOR.md`](AUTHOR.md).
+
+---
+
 ## 📜 License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
