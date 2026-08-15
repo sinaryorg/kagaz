@@ -1,15 +1,17 @@
 <div align="center">
 
-# 📝 Kagaz (🪶 kagaz)
+  <img src="public/logo.png" alt="Kagaz Logo" width="128" style="border-radius: 20px;" />
 
-**A Modern, Minimalist Knowledge Management & Note-Taking Desktop Application**
+  # Kagaz
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Electron](https://img.shields.io/badge/Electron-v33-47848F?logo=electron&logoColor=white)](https://electronjs.org/)
-[![React](https://img.shields.io/badge/React-v19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-v5.6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-v3.4-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-v6.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+  **A Modern, Minimalist Knowledge Management & Note-Taking Desktop Application**
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![Electron](https://img.shields.io/badge/Electron-v33-47848F?logo=electron&logoColor=white)](https://electronjs.org/)
+  [![React](https://img.shields.io/badge/React-v19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-v5.6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind-v3.4-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  [![Vite](https://img.shields.io/badge/Vite-v6.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 
 </div>
 
